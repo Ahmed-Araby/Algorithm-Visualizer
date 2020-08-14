@@ -1,0 +1,13 @@
+# jS concepts
+- promise 
+
+
+- asynchronous function 
+
+
+- requestAnimationFrame
+
+
+
+- canvas rendering withing a forloop 
+

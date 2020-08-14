@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Algorithm Visualizer
+        </title>
+        <style>
+            body{
+                background-color: black;
+            }
+            canvas{ 
+                background-color: black;
+            }
+            label{
+                color: red;
+            }
+        </style>
+    </head>
+
+    <body>
+        <label >enter array size</label>
+        <input type="text" id = 'arraySize'>
+        <input type="button" onclick="generateArray()" value="GenerateArray">
+        
+        <br>
+        
+        <label>choose sorting algorithm</label>
+        <select id='sortingAlgorithm'>
+            <option>Select</option>
+            <option>mergeSort</option>
+            <option>bubleSort</option>
+            <option>quickSort</option>
+        </select>
+        <input type="button" onclick="sort()" value="Sort">
+        
+        <br>
+        <br>
+        <canvas id='sortingCanvas'>
+
+        </canvas>
+
+    </body>
+
+    <script src="rectangle.js"></script>
+    <script src='drawer.js'></script>
+    <script src="sortingAlgorithms.js"></script>
+    <script src="app.js"></script>
+
+
+</html>

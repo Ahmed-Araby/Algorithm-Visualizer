@@ -1,0 +1,25 @@
+- add merge sort visualization.
+- add some visualization to tell which elements are compared at this moment.
+- look for better setup 
+- enhance the UI
+- 
+
+
+
+
+    /*
+    extra work - to do 
+    - make numbers = heights unique.
+    - make colors unique.
+    - put some padding between rectangles.
+    - edit the start and end positions so it will not collide.
+   
+    notes:
+    1048576 is the min number that have 
+    6 digits in the hex base after the conversion
+    */
+    
+    
+    
+    
+    
