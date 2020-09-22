@@ -1,0 +1,31 @@
+body{
+    background-color:bisque;
+}
+
+#can1{
+    display: block;
+    background-color: black;
+}
+
+header{
+    text-align: center;
+    color: red;
+    background-color: black;
+}
+
+main{
+    
+}
+
+footer{
+    background-color: black;
+    color: red;
+    text-align: center; 
+}
+
+input{
+    padding: 2px;
+    margin: 2px;
+    width: 200px;
+    background-color: aquamarine;
+}

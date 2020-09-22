@@ -1,0 +1,19 @@
+css positioning fuck the mouse click position obtined by js 
+http://miloq.blogspot.com/2011/05/coordinates-mouse-click-canvas.html
+https://stackoverflow.com/questions/55677/how-do-i-get-the-coordinates-of-a-mouse-click-on-a-canvas-element#:~:text=Using%20jQuery%20in%202016%2C%20to,pageX%20%2D%20%24(canvas).
+
+
+
+
+
+# install open cv on ubunto 
+http://milq.github.io/install-opencv-ubuntu-debian/
+
+
+
+
+# questions 
+Q1/ what is the difference between 
+a = [] 
+and 
+a = new array();

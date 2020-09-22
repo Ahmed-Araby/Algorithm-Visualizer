@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+    <head>
+        <title>segment - segment intersection</title>
+        <charset = 'utf-8' ></charset>
+        <link rel='stylesheet' href='styles.css'>
+    </head>
+    
+    <body>
+        <header>
+              <h1>segment - segment intersection using sweep line Algorithm</h1>
+        </header>
+        
+        <main>
+          
+            <canvas id='can1'></canvas>
+            <input type='button' value = 'buildEventQueue' 
+                   onclick='build_evnet_queue()'>
+            
+            <input type='button' value="next" 
+                   onclick='step_forward()'>
+            
+            
+        </main>
+        
+        <footer>
+            <h2>by Ahmed Araby's keyboard</h2>
+        </footer>
+        
+        <script src='GeometricDataStructures.js'></script>
+        <script src='balanced_binarySearchTree.js'></script>
+        <script src='sweepLineAlgorithm.js'></script>
+        <script src="helpers.js"></script>
+        
+        <script src='app.js'></script>
+        <script src="testing.js"></script>
+    </body>
+</html>

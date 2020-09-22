@@ -1,0 +1,19 @@
+1 - the points of the lines havet to be sorted 
+such that the line have start event at the smallest point 
+
+2 - bad oop design prodce referencing to wrong attributes names 
+hence bad ass bugs 
+
+
+
+
+# to be fixed 
+1-  when we reverse the order of the lines 
+we change the line representation in the swepsegments DS 
+so we can't match with when we need to delete it 
+
+
+
+
+# test 
+1 - the reversing operation 
