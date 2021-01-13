@@ -1,6 +1,8 @@
 # Algorithm-Visualizer
 algorithms visualization  (computational geometry , sorting, etc. ).
 
-currently it visualizes
+currently it visualize
+
 bubble sort 
+
 convex hull divide and conquer algorithm.
